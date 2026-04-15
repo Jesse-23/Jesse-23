@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Jesse%20Akabueze&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Maduka%20Jesse%20Nnamdi&fontSize=60&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
