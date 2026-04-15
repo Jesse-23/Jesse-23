@@ -3,7 +3,7 @@
 
   <br />
 
-  <a href="(https://maduka-jesse-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-4b3621?style=for-the-badge&logo=googlechrome&logoColor=CFB53B" /></a>
+  <a href="https://maduka-jesse-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-4b3621?style=for-the-badge&logo=googlechrome&logoColor=CFB53B" /></a>
   <a href="mailto:madukajesse14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
