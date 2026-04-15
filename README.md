@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4b3621&height=250&section=header&text=Maduka%20Jesse%20Nnamdi&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFm=Space%20Grotesk&desc=Software%20Engineering%20Student%20|%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor=D4AF37&descFm=Space%20Grotesk" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4b3621&height=250&section=header&text=Maduka%20Jesse%20Nnamdi&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFm=Orbitron&desc=Software%20Engineering%20Student%20|%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor=CFB53B" />
 
   <br />
 
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-4b3621?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="(https://maduka-jesse-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-4b3621?style=for-the-badge&logo=googlechrome&logoColor=CFB53B" /></a>
+  <a href="mailto:madukajesse14@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
