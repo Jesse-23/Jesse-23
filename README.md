@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4b3621&height=250&section=header&text=Maduka%20Jesse%20Nnamdi&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFm=Orbitron&desc=Software%20Engineering%20Student%20|%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor=CFB53B" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4b3621&height=250&section=header&text=Maduka%20Jesse%20Nnamdi&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff&fontFm=Orbitron&desc=Software%20Engineering%20Student%20|%20Full-Stack%20Developer&descSize=22&descAlignY=62&descColor==DAA520" />
 
   <br />
 
@@ -22,7 +22,7 @@ I’m a **Full-Stack Developer (PERN stack)** and **Software Engineering Student
 
 | 🔥 GitHub Streak | 📊 GitHub Stats |
 | :---: | :---: |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jesse-23&theme=tokyonight&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jesse-23&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0D1117&hide_border=true) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jesse-23&theme=tokyonight&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=1800) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jesse-23&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_seconds=1800)
 
 </div>
 
