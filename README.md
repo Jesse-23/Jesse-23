@@ -22,7 +22,7 @@ I’m a **Full-Stack Developer (PERN stack)** and **Software Engineering Student
 
 | 🔥 GitHub Streak | 📊 GitHub Stats |
 | :---: | :---: |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jesse-23&theme=tokyonight&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=1800) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jesse-23&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0D1117&hide_border=true&cache_seconds=1800)
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jesse-23&theme=tokyonight&ring=DAA520&fire=DAA520&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jesse-23&show_icons=true&theme=tokyonight&title_color=DAA520&icon_color=DAA520&text_color=ffffff&bg_color=0D1117&hide_border=true&include_all_commits=false&cache_seconds=1800)
 
 </div>
 
