@@ -10,7 +10,7 @@
 ---
 
 ### 📝 About Me
-I’m a **Full-Stack Developer (PERN stack)** and **Software Engineering Student** dedicated to building efficient, scalable web and mobile applications that solve real-world problems. I specialize in architecting robust backend systems and crafting seamless user experiences.
+I’m a **Full-Stack Developer** and **Software Engineering Student** dedicated to building efficient, scalable web and mobile applications that solve real-world problems. I specialize in architecting robust backend systems and crafting seamless user experiences.
 
 * 🚀 **Focused on:** Clean code, performance optimization, and scalable architecture.
 * 🤝 **Open to:** Work, Freelance projects, internships, and open-source collaborations.
