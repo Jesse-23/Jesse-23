@@ -14,7 +14,7 @@ I’m a **Full-Stack Developer** and **Software Engineering Student** dedicated 
 
 * 🚀 **Focused on:** Clean code, performance optimization, and scalable architecture.
 * 🤝 **Open to:** Work, Freelance projects, internships, and open-source collaborations.
-* ⚡ **Goal:** Turning complex ideas into production-ready reality.
+* ⚡ **Goal:** Turning complex ideas into reliable production-ready reality.
 
 ---
 
